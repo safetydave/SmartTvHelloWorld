@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.samsung.com/">
+  <cpname/>
+  <cplogo/>
+  <cpauthjs/>
+  <ThumbIcon>Resource/image/icon/safetydave_106.jpg</ThumbIcon>
+  <BigThumbIcon>Resource/image/icon/safetydave_115.jpg</BigThumbIcon>
+  <ListIcon>Resource/image/icon/safetydave_85.jpg</ListIcon>
+  <BigListIcon>Resource/image/icon/safetydave_95.jpg</BigListIcon>
+  <category>Lifestyle</category>
+  <autoUpdate>n</autoUpdate>
+  <ver>0.100</ver>
+  <mgrver/>
+  <fullwidget>n</fullwidget>
+  <type>user</type>
+  <srcctl>y</srcctl>
+  <ticker>y</ticker>
+  <childlock>n</childlock>
+  <videomute>n</videomute>
+  <dcont>y</dcont>
+  <widgetname>HelloWorld</widgetname>
+  <description>Test Smart TV app</description>
+  <width>960</width>
+  <height>540</height>
+  <author>
+    <name>David Colls</name>
+    <email>dcolls@thoughtworks.com</email>
+    <link>http://www.thoughtworks.com</link>
+    <organization>ThoughtWorks</organization>
+  </author>
+</widget>
