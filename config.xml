@@ -11,11 +11,12 @@
   <autoUpdate>n</autoUpdate>
   <ver>0.100</ver>
   <mgrver/>
-  <fullwidget>n</fullwidget>
+  <fullwidget itemtype="boolean">n</fullwidget>
   <type>user</type>
   <srcctl>y</srcctl>
-  <ticker>y</ticker>
+  <ticker itemtype="boolean">y</ticker>
   <childlock>n</childlock>
+  <audiomute>n</audiomute>
   <videomute>n</videomute>
   <dcont>y</dcont>
   <widgetname>HelloWorld</widgetname>
